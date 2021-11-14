@@ -1,0 +1,24 @@
+{
+  "name": "book_search_engine",
+  "version": "1.0.0",
+  "description": "book search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheylaPopovich/book_search_engine.git"
+  },
+  "keywords": [
+    "book",
+    "searc",
+    "engine"
+  ],
+  "author": "Sheyla Popovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheylaPopovich/book_search_engine/issues"
+  },
+  "homepage": "https://github.com/SheylaPopovich/book_search_engine#readme"
+}
