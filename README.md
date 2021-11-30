@@ -6,7 +6,7 @@ This application allows a user to to search new books using Goggle Books API and
 <br>
 
 ## Live Application 
-
+<a href="https://thawing-wildwood-31522.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 
 <br>
 
@@ -43,8 +43,9 @@ This application allows a user to to search new books using Goggle Books API and
 
 ## Application Demo
 
-![inital page the user sees when they access the site](./assets/page-screenshot.jpg)
-
+This [Demo Video]( https://drive.google.com/file/d/19XRk-r7S9xu40VSJYfZrrHsyFM8GeFky/view?usp=sharing) will walk you through the application and its usage. 
+<br>
+<br>
 <br>
 
 ## Technologies Used
@@ -64,7 +65,5 @@ This application allows a user to to search new books using Goggle Books API and
 <br>
 
 ## License
-
-MIT
-
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
